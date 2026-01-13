@@ -1,368 +1,426 @@
+# Complete README.md for Ayush Dayal
+
+```markdown
 <div align="center">
 
-🎨 GitHub Contribution Art Generator
+# 🎨 GitHub Contribution Art Generator
 
-Transform Your GitHub Profile with Beautiful Contribution Patterns
+### Transform Your GitHub Profile with Beautiful Contribution Patterns
+
+[![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/Ayush-Dayal-08/github-contribution-art)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Ayush-Dayal-08/github-contribution-art/pulls)
+[![Stars](https://img.shields.io/github/stars/Ayush-Dayal-08/github-contribution-art?style=social)](https://github.com/Ayush-Dayal-08/github-contribution-art)
+[![Forks](https://img.shields.io/github/forks/Ayush-Dayal-08/github-contribution-art?style=social)](https://github.com/Ayush-Dayal-08/github-contribution-art/fork)
 
 <p align="center">
-<strong>Create stunning patterns, text, and artwork on your GitHub contribution graph!</strong>
+  <strong>Create stunning patterns, text, and artwork on your GitHub contribution graph!</strong>
 </p>
 
 <p align="center">
-<a href="https://www.google.com/search?q=%23-features">Features</a> •
-<a href="https://www.google.com/search?q=%23-quick-start">Quick Start</a> •
-<a href="https://www.google.com/search?q=%23-installation">Installation</a> •
-<a href="https://www.google.com/search?q=%23-usage">Usage</a> •
-<a href="#-patterns">Patterns</a> •
-<a href="https://www.google.com/search?q=%23-support">Support</a>
+  <a href="#-features">Features</a> •
+  <a href="#-quick-start">Quick Start</a> •
+  <a href="#-installation">Installation</a> •
+  <a href="#-usage">Usage</a> •
+  <a href="#-patterns">Patterns</a> •
+  <a href="#-support">Support</a>
 </p>
 
-🌟 100% FREE | All Features Included | Easy to Use
+---
+
+### 🌟 100% FREE | All Features Included | Easy to Use
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ayush-Dayal-08&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 </div>
 
-📑 Table of Contents
+---
 
-✨ Features
+## 📑 Table of Contents
 
-🖼️ Preview
+- [✨ Features](#-features)
+- [🖼️ Preview](#️-preview)
+- [🚀 Quick Start](#-quick-start)
+- [📦 Installation](#-installation)
+- [🔑 Getting Your FREE License Key](#-getting-your-free-license-key)
+- [⚙️ Configuration](#️-configuration)
+- [📖 Usage](#-usage)
+- [🎨 Available Patterns](#-available-patterns)
+- [💡 Examples](#-examples)
+- [📊 How It Works](#-how-it-works)
+- [❓ FAQ](#-faq)
+- [🔧 Troubleshooting](#-troubleshooting)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [👨‍💻 Author](#-author)
+- [🆘 Support](#-support)
+- [🙏 Acknowledgments](#-acknowledgments)
 
-🚀 Quick Start
+---
 
-📦 Installation
-
-🔑 Getting Your FREE License Key
-
-⚙️ Configuration
-
-📖 Usage
-
-🎨 Available Patterns
-
-💡 Examples
-
-❓ FAQ
-
-🔧 Troubleshooting
-
-🤝 Contributing
-
-📄 License
-
-👨‍💻 Author
-
-🆘 Support
-
-✨ Features
+## ✨ Features
 
 <table>
 <tr>
 <td width="50%">
 
-🎯 Core Features
+### 🎯 Core Features
 
-✅ Custom Date Ranges - Generate commits for any time period
-
-✅ Multiple Patterns - Heart, wave, checkerboard & more
-
-✅ Organic Mode - Realistic random contribution patterns
-
-✅ Preview Mode - ASCII art preview before committing
-
-✅ Dry Run - Test without making actual commits
-
-✅ Progress Tracking - Real-time progress bar with ETA
+| Feature | Description |
+|---------|-------------|
+| ✅ **Custom Date Ranges** | Generate commits for any time period |
+| ✅ **Multiple Patterns** | Heart, wave, checkerboard & more |
+| ✅ **Organic Mode** | Realistic random contribution patterns |
+| ✅ **Preview Mode** | ASCII art preview before committing |
+| ✅ **Dry Run** | Test without making actual commits |
+| ✅ **Progress Tracking** | Real-time progress bar with ETA |
 
 </td>
 <td width="50%">
 
-🛡️ Security & Quality
+### 🛡️ Security & Quality
 
-✅ License System - Secure key-based activation
-
-✅ Offline Support - Works without internet after activation
-
-✅ Error Handling - Robust error recovery
-
-✅ Git Integration - Automatic staging, committing & pushing
-
-✅ Configurable - Customize every aspect
-
-✅ Cross-Platform - Works on Windows, macOS & Linux
+| Feature | Description |
+|---------|-------------|
+| ✅ **License System** | Secure key-based activation |
+| ✅ **Offline Support** | Works without internet after activation |
+| ✅ **Error Handling** | Robust error recovery |
+| ✅ **Git Integration** | Auto staging, committing & pushing |
+| ✅ **Configurable** | Customize every aspect |
+| ✅ **Cross-Platform** | Windows, macOS & Linux |
 
 </td>
 </tr>
 </table>
 
-🖼️ Preview
+---
 
-ASCII Pattern Preview
+## 🖼️ Preview
 
-  📊 Contribution Preview
-  ────────────────────────────────────
+### What Your Contribution Graph Could Look Like
 
-  Sun: █░░█░░█░░█░░█░░█░░█░░█
-  Mon: ▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓
-  Tue: ░▓█░▓█░▓█░▓█░▓█░▓█░▓█░
-  Wed: █░▓█░▓█░▓█░▓█░▓█░▓█░▓█
-  Thu: ▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓
-  Fri: ░▓█░▓█░▓█░▓█░▓█░▓█░▓█░
-  Sat: █░░█░░█░░█░░█░░█░░█░░█
+```
+  📊 Contribution Graph Preview
+  ══════════════════════════════════════════════════════════════
 
-  Legend: [ ] None [░] Low [▒] Med [▓] High [█] Max
+  Sun: █░░█░░█░░█░░█░░█░░█░░█░░█░░█░░█░░█░░█░░█░░█░░█░░█░░█░░
+  Mon: ▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█
+  Tue: ░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓
+  Wed: █░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░
+  Thu: ▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█
+  Fri: ░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓█░▓
+  Sat: █░░█░░█░░█░░█░░█░░█░░█░░█░░█░░█░░█░░█░░█░░█░░█░░█░░█░░
 
+  Legend: [ ] None  [░] Low  [▒] Medium  [▓] High  [█] Maximum
+```
 
-Heart Pattern Example
+### Heart Pattern ❤️
 
-  Sun:   ██    ██   
-  Mon: ████  ████ 
-  Tue: ██████████ 
-  Wed: ██████████ 
-  Thu:   ██████   
-  Fri:     ██     
-  Sat:            
+```
+        ██████      ██████
+      ██████████  ██████████
+    ████████████████████████
+    ████████████████████████
+    ████████████████████████
+      ██████████████████
+        ████████████████
+          ████████████
+            ████████
+              ████
+               ██
+```
 
+### Wave Pattern 🌊
 
-🚀 Quick Start
+```
+    ████                ████                ████
+  ██    ██            ██    ██            ██    ██
+██        ██        ██        ██        ██        ██
+            ██    ██            ██    ██
+              ████                ████
+```
 
-Get up and running in 5 minutes:
+---
 
-# 1. Clone the repository
-git clone [https://github.com/AYUSH-DAYAL/github-contribution-art.git](https://github.com/AYUSH-DAYAL/github-contribution-art.git)
+## 🚀 Quick Start
 
-# 2. Navigate to project
+Get up and running in **under 5 minutes**:
+
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/Ayush-Dayal-08/github-contribution-art.git
+
+# 2️⃣ Navigate to project folder
 cd github-contribution-art
 
-# 3. Install dependencies
+# 3️⃣ Install dependencies
 npm install
 
-# 4. Setup configuration
+# 4️⃣ Setup configuration
 cp .env.example .env
 
-# 5. Configure author details (see Configuration section)
-# 6. Get your FREE license key (see License Key section)
+# 5️⃣ Edit configuration files (see Installation section)
 
-# 7. Activate license
+# 6️⃣ Get your FREE license key (see License Key section)
+
+# 7️⃣ Activate your license
 npm run activate
 
-# 8. Preview your contribution graph
+# 8️⃣ Preview your contribution graph
 npm run preview
 
-# 9. Generate contributions!
+# 9️⃣ Generate contributions!
 npm start
+```
 
+---
 
-📦 Installation
+## 📦 Installation
 
-Prerequisites
+### 📋 Prerequisites
 
-Requirement
+Before you begin, ensure you have the following installed:
 
-Minimum Version
+| Requirement | Minimum Version | Check Command | Download |
+|-------------|-----------------|---------------|----------|
+| **Node.js** | v18.0.0+ | `node --version` | [nodejs.org](https://nodejs.org/) |
+| **npm** | v9.0.0+ | `npm --version` | Included with Node.js |
+| **Git** | v2.0.0+ | `git --version` | [git-scm.com](https://git-scm.com/) |
 
-Check Command
+### 📥 Step-by-Step Installation
 
-Node.js
+#### Step 1: Clone the Repository
 
-v18.0.0 or higher
-
-node --version
-
-npm
-
-v9.0.0 or higher
-
-npm --version
-
-Git
-
-v2.0.0 or higher
-
-git --version
-
-Step-by-Step Installation
-
-Step 1: Clone the Repository
-
-git clone [https://github.com/AYUSH-DAYAL/github-contribution-art.git](https://github.com/AYUSH-DAYAL/github-contribution-art.git)
+```bash
+git clone https://github.com/Ayush-Dayal-08/github-contribution-art.git
 cd github-contribution-art
+```
 
+#### Step 2: Install Dependencies
 
-Step 2: Install Dependencies
-
+```bash
 npm install
-
+```
 
 <details>
-<summary>📦 Click to see installed packages</summary>
+<summary>📦 <strong>Click to see installed packages</strong></summary>
 
-Package
-
-Purpose
-
-chalk
-
-Terminal styling
-
-cli-progress
-
-Progress bar display
-
-commander
-
-CLI argument parsing
-
-date-fns
-
-Date manipulation
-
-dotenv
-
-Environment configuration
-
-jsonfile
-
-JSON file operations
-
-ora
-
-Loading spinners
-
-simple-git
-
-Git operations
+| Package | Version | Purpose |
+|---------|---------|---------|
+| `chalk` | ^5.3.0 | Terminal text styling |
+| `cli-progress` | ^3.12.0 | Progress bar display |
+| `commander` | ^12.0.0 | CLI argument parsing |
+| `date-fns` | ^3.6.0 | Date manipulation |
+| `dotenv` | ^16.4.5 | Environment variables |
+| `jsonfile` | ^6.1.0 | JSON file operations |
+| `ora` | ^8.0.1 | Loading spinners |
+| `simple-git` | ^3.24.0 | Git operations |
 
 </details>
 
-Step 3: Create Configuration File
+#### Step 3: Create Configuration File
 
+```bash
 cp .env.example .env
+```
 
+#### Step 4: Edit Configuration
 
-Step 4: Configure Author Details
+Open `.env` and customize your settings:
 
-Edit src/branding/author.js:
+```bash
+nano .env
+```
 
+```env
+# Date Range
+START_DATE=2024-01-01
+END_DATE=2024-12-31
+
+# Commit Settings
+MIN_COMMITS_PER_DAY=1
+MAX_COMMITS_PER_DAY=15
+SKIP_PROBABILITY=0.15
+
+# Git Settings
+GIT_REMOTE=origin
+GIT_BRANCH=main
+```
+
+#### Step 5: Configure Author Details
+
+Edit `src/branding/author.js` with your information:
+
+```bash
+nano src/branding/author.js
+```
+
+```javascript
 export const AUTHOR = {
-  name: 'Ayush Dayal',
-  github: 'AYUSH-DAYAL',
+  name: 'Your Name',
+  github: 'your-github-username',
   repo: 'github-contribution-art',
-  email: 'ayushdayal08@gmail.com',
-  website: '[https://github.com/AYUSH-DAYAL](https://github.com/AYUSH-DAYAL)',
-  donate: '[https://buymeacoffee.com/AYUSH-DAYAL](https://buymeacoffee.com/AYUSH-DAYAL)',
+  email: 'your.email@example.com',
+  website: 'https://yourwebsite.com',
+  donate: '',
 };
+```
 
+#### Step 6: Add Public Key
 
-Step 5: Add Public Key
+Edit `src/licensing/publicKey.js`:
 
-Edit src/licensing/publicKey.js and replace the placeholder with the actual public key provided by the author.
+```bash
+nano src/licensing/publicKey.js
+```
 
-🔑 Getting Your FREE License Key
+Replace the placeholder with the public key (provided when you get your license).
 
-This software requires a FREE license key for activation.
+#### Step 7: Initialize Git (For Your Fork)
 
-How to Get Your Key
+```bash
+git init
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+```
+
+---
+
+## 🔑 Getting Your FREE License Key
+
+This software is **100% FREE** but requires a license key for activation.
+
+### 📝 How to Get Your FREE Key
 
 <table>
 <tr>
-<td width="60">
+<td align="center" width="80">
 
-1️⃣
-
-</td>
-<td>
-
-Star this Repository
-
-Click the ⭐ button at the top of this page
-
-</td>
-</tr>
-<tr>
-<td>
-
-2️⃣
+### 1️⃣
 
 </td>
 <td>
 
-Follow the Author
+**⭐ Star this Repository**
 
-Follow @AYUSH-DAYAL on GitHub
+Click the star button at the top of this page
+
+[![Star](https://img.shields.io/github/stars/Ayush-Dayal-08/github-contribution-art?style=social)](https://github.com/Ayush-Dayal-08/github-contribution-art)
 
 </td>
 </tr>
 <tr>
-<td>
+<td align="center">
 
-3️⃣
+### 2️⃣
 
 </td>
 <td>
 
-Request Your Key
+**👤 Follow the Author**
 
-Send an email to ayushdayal08@gmail.com with:
+Follow [@Ayush-Dayal-08](https://github.com/Ayush-Dayal-08) on GitHub
 
-Your GitHub username
-
-Your email address
+[![Follow](https://img.shields.io/github/followers/Ayush-Dayal-08?label=Follow&style=social)](https://github.com/Ayush-Dayal-08)
 
 </td>
 </tr>
 <tr>
-<td>
+<td align="center">
 
-4️⃣
+### 3️⃣
 
 </td>
 <td>
 
-Receive Your Key
+**📧 Request Your Key**
 
-You'll receive your FREE license key within 24 hours!
+Send an email to **ayushdayal08@gmail.com** with:
+
+- Subject: `License Key Request - GitHub Contribution Art`
+- Your GitHub username
+- Your email address
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 4️⃣
+
+</td>
+<td>
+
+**✉️ Receive Your Key**
+
+You'll receive your FREE license key within **24 hours**!
 
 </td>
 </tr>
 </table>
 
-Activating Your License
+### 🔓 Activating Your License
 
+Once you receive your key:
+
+```bash
 npm run activate
-
+```
 
 When prompted, paste your license key:
 
-🔑 License Activation
+```
+  🔑 License Activation
 
-Paste License Key: eyJwcm9kdWN0IjoiR2l0SHViI...
+  Paste License Key: eyJwcm9kdWN0IjoiR2l0SHViIENvbn...
 
-✅ LICENSE ACTIVATED!
-   User: AYUSH-DAYAL (ayushdayal08@gmail.com)
-   Features: ALL ENABLED (FREE)
+  ⏳ Validating...
 
+  ╔══════════════════════════════════════════════╗
+  ║  ✅ LICENSE ACTIVATED!                       ║
+  ╚══════════════════════════════════════════════╝
 
-Verify Your License
+     User: your-username (you@example.com)
+     Features: ALL ENABLED (FREE)
+```
 
+### ✅ Verify Your License
+
+```bash
 npm run verify
+```
 
+**Expected Output:**
 
-⚙️ Configuration
+```
+  ✅ License: VALID
+     User: your-username
+     Type: Free License
+```
 
-Environment Variables
+---
 
-Edit the .env file to customize your settings:
+## ⚙️ Configuration
 
-# ═══════════════════════════════════════════════════════════════
-# DATE RANGE
-# ═══════════════════════════════════════════════════════════════
+### 🔧 Environment Variables
+
+Edit the `.env` file to customize your settings:
+
+```env
+# ═══════════════════════════════════════════════════════════════════════════
+# 📅 DATE RANGE CONFIGURATION
+# ═══════════════════════════════════════════════════════════════════════════
 # Format: YYYY-MM-DD
+# Set the start and end dates for contribution generation
+
 START_DATE=2024-01-01
 END_DATE=2024-12-31
 
-# ═══════════════════════════════════════════════════════════════
-# COMMIT SETTINGS
-# ═══════════════════════════════════════════════════════════════
+# ═══════════════════════════════════════════════════════════════════════════
+# 📊 COMMIT SETTINGS
+# ═══════════════════════════════════════════════════════════════════════════
+# Control how many commits are made per day
+
 # Minimum commits per active day (1-50)
 MIN_COMMITS_PER_DAY=1
 
@@ -371,493 +429,587 @@ MAX_COMMITS_PER_DAY=15
 
 # Probability to skip a day (0.0 - 1.0)
 # 0.15 = 15% chance to skip (creates realistic gaps)
+# 0.00 = Never skip (commits every day)
+# 0.50 = Skip half the days
 SKIP_PROBABILITY=0.15
 
-# ═══════════════════════════════════════════════════════════════
-# GIT SETTINGS
-# ═══════════════════════════════════════════════════════════════
+# ═══════════════════════════════════════════════════════════════════════════
+# 🔧 GIT SETTINGS
+# ═══════════════════════════════════════════════════════════════════════════
+# Configure your git remote and branch
+
 GIT_REMOTE=origin
 GIT_BRANCH=main
 
-# ═══════════════════════════════════════════════════════════════
-# OPTIONAL: GitHub Token (for star/follow verification)
-# ═══════════════════════════════════════════════════════════════
-# Create at: [https://github.com/settings/tokens](https://github.com/settings/tokens)
+# ═══════════════════════════════════════════════════════════════════════════
+# 🔐 OPTIONAL: GitHub Token
+# ═══════════════════════════════════════════════════════════════════════════
+# For star/follow verification (optional)
+# Create at: https://github.com/settings/tokens
+
 GITHUB_TOKEN=
+```
 
+### 📋 Configuration Reference
 
-Configuration Options Explained
+| Option | Type | Default | Range | Description |
+|--------|------|---------|-------|-------------|
+| `START_DATE` | Date | `2024-01-01` | Any valid date | First day to generate commits |
+| `END_DATE` | Date | `2024-12-31` | Any valid date | Last day to generate commits |
+| `MIN_COMMITS_PER_DAY` | Integer | `1` | 1-50 | Minimum commits on active days |
+| `MAX_COMMITS_PER_DAY` | Integer | `15` | 1-50 | Maximum commits on active days |
+| `SKIP_PROBABILITY` | Float | `0.15` | 0.0-1.0 | Chance to skip a day |
+| `GIT_REMOTE` | String | `origin` | - | Git remote name |
+| `GIT_BRANCH` | String | `main` | - | Git branch name |
+| `GITHUB_TOKEN` | String | `` | - | Optional GitHub API token |
 
-Option
+### 💡 Configuration Tips
 
-Type
+<details>
+<summary><strong>🎯 For Realistic Looking Graphs</strong></summary>
 
-Default
+```env
+MIN_COMMITS_PER_DAY=1
+MAX_COMMITS_PER_DAY=8
+SKIP_PROBABILITY=0.25
+```
 
-Description
+This creates natural-looking gaps and varied commit counts.
 
-START_DATE
+</details>
 
-Date
+<details>
+<summary><strong>🔥 For Maximum Activity</strong></summary>
 
-2024-01-01
+```env
+MIN_COMMITS_PER_DAY=10
+MAX_COMMITS_PER_DAY=30
+SKIP_PROBABILITY=0.05
+```
 
-First day to generate commits
+This creates an intense, highly-active contribution graph.
 
-END_DATE
+</details>
 
-Date
+<details>
+<summary><strong>🌱 For Minimal Activity</strong></summary>
 
-2024-12-31
+```env
+MIN_COMMITS_PER_DAY=1
+MAX_COMMITS_PER_DAY=3
+SKIP_PROBABILITY=0.40
+```
 
-Last day to generate commits
+This creates a sparse, occasional contributor look.
 
-MIN_COMMITS_PER_DAY
+</details>
 
-Number
+---
 
-1
+## 📖 Usage
 
-Minimum commits on active days
+### 🎮 Available Commands
 
-MAX_COMMITS_PER_DAY
+| Command | Description | Makes Commits? |
+|---------|-------------|----------------|
+| `npm start` | Generate contributions and push | ✅ Yes |
+| `npm run activate` | Activate your license key | ❌ No |
+| `npm run verify` | Check license status | ❌ No |
+| `npm run preview` | Preview pattern as ASCII art | ❌ No |
+| `npm run dry-run` | Test run without commits | ❌ No |
+| `npm run patterns` | List all available patterns | ❌ No |
 
-Number
+### ⌨️ Command Line Options
 
-15
-
-Maximum commits on active days
-
-SKIP_PROBABILITY
-
-Float
-
-0.15
-
-Chance to skip a day (0-1)
-
-GIT_REMOTE
-
-String
-
-origin
-
-Git remote name
-
-GIT_BRANCH
-
-String
-
-main
-
-Git branch name
-
-GITHUB_TOKEN
-
-String
-
-``
-
-Optional GitHub token
-
-📖 Usage
-
-Available Commands
-
-Command
-
-Description
-
-npm start
-
-Generate contributions and push to GitHub
-
-npm run activate
-
-Activate your license key
-
-npm run verify
-
-Check license status
-
-npm run preview
-
-Preview pattern as ASCII art (no commits)
-
-npm run dry-run
-
-Test run without making actual commits
-
-npm run patterns
-
-List all available patterns
-
-Command Line Options
-
+```bash
 node src/index.js [options]
+```
 
+| Option | Alias | Type | Description | Example |
+|--------|-------|------|-------------|---------|
+| `--start <date>` | `-s` | Date | Start date (YYYY-MM-DD) | `--start 2024-01-01` |
+| `--end <date>` | `-e` | Date | End date (YYYY-MM-DD) | `--end 2024-12-31` |
+| `--pattern <name>` | `-p` | String | Use specific pattern | `--pattern heart` |
+| `--min <number>` | | Integer | Min commits per day | `--min 5` |
+| `--max <number>` | | Integer | Max commits per day | `--max 20` |
+| `--dry-run` | `-d` | Flag | Run without commits | `--dry-run` |
+| `--preview` | | Flag | Show ASCII preview | `--preview` |
+| `--no-push` | | Flag | Skip git push | `--no-push` |
+| `--verbose` | `-v` | Flag | Show detailed logs | `--verbose` |
+| `--help` | `-h` | Flag | Show help message | `--help` |
 
-Option
+### 🚀 Usage Examples
 
-Alias
+#### Basic Usage
 
-Description
-
-Example
-
---start <date>
-
--s
-
-Start date (YYYY-MM-DD)
-
---start 2024-01-01
-
---end <date>
-
--e
-
-End date (YYYY-MM-DD)
-
---end 2024-12-31
-
---pattern <name>
-
--p
-
-Use specific pattern
-
---pattern heart
-
---min <number>
-
-
-
-Min commits per day
-
---min 5
-
---max <number>
-
-
-
-Max commits per day
-
---max 20
-
---dry-run
-
--d
-
-Run without commits
-
---dry-run
-
---preview
-
-
-
-Show ASCII preview
-
---preview
-
---no-push
-
-
-
-Skip git push
-
---no-push
-
---verbose
-
--v
-
-Show detailed logs
-
---verbose
-
---help
-
--h
-
-Show help
-
---help
-
-Usage Examples
-
-# Basic usage (uses .env settings)
+```bash
+# Use settings from .env file
 npm start
+```
 
-# Custom date range
+#### Custom Date Range
+
+```bash
 npm start -- --start 2024-01-01 --end 2024-06-30
+```
 
-# Use a specific pattern
+#### Use a Pattern
+
+```bash
 npm start -- --pattern heart
+```
 
-# Preview before running
+#### Preview Before Running
+
+```bash
 npm start -- --preview
+```
 
-# Test without making commits
+#### Test Without Making Commits
+
+```bash
 npm start -- --dry-run
+```
 
-# Custom commits range
+#### Custom Commit Range
+
+```bash
 npm start -- --min 5 --max 25
+```
 
-# Combine options
+#### Combine Multiple Options
+
+```bash
 npm start -- --pattern wave --start 2024-01-01 --end 2024-03-31 --max 20
+```
 
-# Generate without pushing
+#### Generate Without Pushing
+
+```bash
 npm start -- --no-push
+```
 
+#### Verbose Mode for Debugging
 
-🎨 Available Patterns
+```bash
+npm start -- --verbose
+```
 
-Pattern Gallery
+---
+
+## 🎨 Available Patterns
+
+### 📋 Pattern Gallery
+
+List all patterns:
+
+```bash
+npm run patterns
+```
 
 <table>
 <tr>
-<th>Pattern</th>
-<th>Preview</th>
-<th>Command</th>
+<th width="20%">Pattern</th>
+<th width="50%">Preview</th>
+<th width="30%">Command</th>
 </tr>
 <tr>
-<td><strong>❤️ Heart</strong></td>
 <td>
 
-  ██  ██
-████████
-████████
-  ████
-    ██
+**❤️ Heart**
 
+*Perfect for Valentine's Day or showing love for coding!*
 
 </td>
 <td>
 
---pattern heart
+```
+    ██  ██
+  ████████
+  ████████
+    ████
+      ██
+```
+
+</td>
+<td>
+
+```bash
+npm start -- --pattern heart
+```
 
 </td>
 </tr>
 <tr>
-<td><strong>🌊 Wave</strong></td>
 <td>
 
+**🌊 Wave**
+
+*Smooth, flowing wave pattern*
+
+</td>
+<td>
+
+```
 █░░░░█░░░░█
-░█░░█░░█░░█
-░░██░░░░██░
-
+░█░░█░█░░█░
+░░██░░░██░░
+```
 
 </td>
 <td>
 
---pattern wave
+```bash
+npm start -- --pattern wave
+```
 
 </td>
 </tr>
 <tr>
-<td><strong>♟️ Checkerboard</strong></td>
 <td>
 
+**♟️ Checkerboard**
+
+*Classic alternating pattern*
+
+</td>
+<td>
+
+```
 █ █ █ █ █
  █ █ █ █ 
 █ █ █ █ █
-
-
-</td>
-<td>
-
---pattern checkerboard
-
-</td>
-</tr>
-<tr>
-<td><strong>📐 Diagonal</strong></td>
-<td>
-
-█░░░█░░░
-░█░░░█░░
-░░█░░░█░
-░░░█░░░█
-
+ █ █ █ █ 
+```
 
 </td>
 <td>
 
---pattern diagonal
+```bash
+npm start -- --pattern checkerboard
+```
 
 </td>
 </tr>
 <tr>
-<td><strong>⬛ Solid</strong></td>
 <td>
 
-████████
-████████
-████████
+**📐 Diagonal**
 
+*Diagonal stripes pattern*
 
 </td>
 <td>
 
---pattern solid
+```
+█░░░█░░░█
+░█░░░█░░░
+░░█░░░█░░
+░░░█░░░█░
+```
+
+</td>
+<td>
+
+```bash
+npm start -- --pattern diagonal
+```
 
 </td>
 </tr>
 <tr>
-<td><strong>🎲 Random</strong></td>
 <td>
 
-█░▓░█▒░█
-▒█░▓▒░█░
-░▒█░▓█▒░
+**⬛ Solid**
 
+*Maximum commits everywhere*
 
 </td>
 <td>
 
-Default (no pattern flag)
+```
+██████████
+██████████
+██████████
+██████████
+```
+
+</td>
+<td>
+
+```bash
+npm start -- --pattern solid
+```
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🎲 Random/Organic**
+
+*Realistic random pattern (Default)*
+
+</td>
+<td>
+
+```
+█░▓░█▒░█▓░
+▒█░▓▒░█░▒█
+░▒█░▓█▒░▓░
+▓░▒█░▓█▒░█
+```
+
+</td>
+<td>
+
+```bash
+npm start
+```
+
+*(No pattern flag needed)*
 
 </td>
 </tr>
 </table>
 
-List All Patterns
+---
 
-npm run patterns
+## 💡 Examples
 
+### Example 1: Fill an Entire Year
 
-💡 Examples
+Create contributions for a full year:
 
-Example 1: Fill an Entire Year
-
+```bash
 # Edit .env
 START_DATE=2024-01-01
 END_DATE=2024-12-31
+MIN_COMMITS_PER_DAY=1
+MAX_COMMITS_PER_DAY=15
+SKIP_PROBABILITY=0.15
 
 # Run
 npm start
+```
 
+### Example 2: Valentine's Day Heart ❤️
 
-Example 2: Create a Heart Pattern for Valentine's Day
+Create a heart pattern for February:
 
+```bash
 npm start -- --pattern heart --start 2024-02-01 --end 2024-02-28
+```
 
+### Example 3: Intense Coding Month 🔥
 
-Example 3: High Activity Period
+Simulate a month of intense coding:
 
-# Simulate intense coding period
-npm start -- --min 10 --max 30 --start 2024-03-01 --end 2024-03-31
+```bash
+npm start -- --min 15 --max 35 --start 2024-03-01 --end 2024-03-31
+```
 
+### Example 4: Realistic Contribution Pattern 📊
 
-Example 4: Realistic Contribution Pattern
+Create natural-looking contributions:
 
-# Lower commits, more skip days = more realistic
-# Edit .env:
+```env
+# .env settings
 MIN_COMMITS_PER_DAY=1
 MAX_COMMITS_PER_DAY=8
-SKIP_PROBABILITY=0.25
+SKIP_PROBABILITY=0.30
+```
 
+```bash
 npm start
+```
 
+### Example 5: Preview Different Patterns 👁️
 
-Example 5: Preview Multiple Patterns
+Check how different patterns look before committing:
 
-# Check different patterns before choosing
+```bash
 npm start -- --pattern heart --preview
 npm start -- --pattern wave --preview
 npm start -- --pattern checkerboard --preview
+npm start -- --pattern diagonal --preview
+```
 
+### Example 6: Quarter by Quarter 📆
 
-❓ FAQ
+Generate contributions for Q1 only:
+
+```bash
+npm start -- --start 2024-01-01 --end 2024-03-31
+```
+
+### Example 7: Weekday Warrior 💼
+
+Higher commits on weekdays (set in .env):
+
+```env
+MIN_COMMITS_PER_DAY=5
+MAX_COMMITS_PER_DAY=20
+SKIP_PROBABILITY=0.10
+```
+
+---
+
+## 📊 How It Works
+
+### 🔄 Process Flow
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                        HOW IT WORKS                              │
+└─────────────────────────────────────────────────────────────────┘
+
+  ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
+  │   1. SETUP   │────▶│  2. ACTIVATE │────▶│ 3. CONFIGURE │
+  │              │     │              │     │              │
+  │ Clone repo   │     │ Get FREE key │     │ Edit .env    │
+  │ npm install  │     │ npm activate │     │ Set dates    │
+  └──────────────┘     └──────────────┘     └──────────────┘
+                                                   │
+                                                   ▼
+  ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
+  │   6. DONE!   │◀────│   5. PUSH    │◀────│  4. GENERATE │
+  │              │     │              │     │              │
+  │ Check GitHub │     │ Auto push to │     │ npm start    │
+  │ profile      │     │ repository   │     │ Create commits│
+  └──────────────┘     └──────────────┘     └──────────────┘
+```
+
+### 🔧 Technical Details
+
+1. **Schedule Generation**: Creates a map of dates → commit counts
+2. **Pattern Application**: Applies selected pattern or organic randomization
+3. **Commit Creation**: For each date:
+   - Generates random time (8 AM - 10 PM)
+   - Creates data file with unique ID
+   - Stages and commits with backdated timestamp
+4. **Push**: Automatically pushes all commits to remote
+
+### 📁 Generated Files
+
+| File | Location | Purpose |
+|------|----------|---------|
+| `contribution.json` | `data/` | Stores commit data |
+| `.license` | Root | Stores activated license |
+
+---
+
+## ❓ FAQ
 
 <details>
-<summary><strong>Q: Is this tool really free?</strong></summary>
+<summary><strong>❓ Is this tool really free?</strong></summary>
 
-A: Yes! This tool is 100% free. You just need to request a free license key by starring the repo and following the author. All features are included at no cost.
+**Yes!** This tool is 100% free. You just need to:
+1. Star the repository ⭐
+2. Follow the author 👤
+3. Request a free license key 📧
+
+All features are included at no cost!
 
 </details>
 
 <details>
-<summary><strong>Q: Why do I need a license key if it's free?</strong></summary>
+<summary><strong>❓ Why do I need a license key if it's free?</strong></summary>
 
-A: The license system helps us:
-
-Track usage and improve the tool
-
-Build a community of users
-
-Provide support to verified users
-
-Prevent abuse of the tool
+The license system helps us:
+- 📊 Track usage and improve the tool
+- 👥 Build a community of users
+- 🛟 Provide support to verified users
+- 🛡️ Prevent abuse of the tool
 
 </details>
 
 <details>
-<summary><strong>Q: Will this affect my real contributions?</strong></summary>
+<summary><strong>❓ Will this affect my real contributions?</strong></summary>
 
-A: The commits are made to a data file in this repository only. Your other repositories remain unaffected. However, these commits do appear on your GitHub contribution graph.
-
-</details>
-
-<details>
-<summary><strong>Q: Can I use this for past dates?</strong></summary>
-
-A: Yes! Git allows backdated commits. You can set any date range, including dates in the past.
+The commits are made to a data file in **this repository only**. Your other repositories remain completely unaffected. However, these commits do appear on your GitHub contribution graph.
 
 </details>
 
 <details>
-<summary><strong>Q: Is this against GitHub's Terms of Service?</strong></summary>
+<summary><strong>❓ Can I use this for past dates?</strong></summary>
 
-A: This tool creates real commits to a real repository. Use responsibly and for personal/educational purposes. The author is not responsible for any misuse.
-
-</details>
-
-<details>
-<summary><strong>Q: How long does the license last?</strong></summary>
-
-A: Free licenses are valid for approximately 100 years (essentially forever). You won't need to renew.
+**Yes!** Git allows backdated commits. You can set any date range, including dates in the past.
 
 </details>
 
 <details>
-<summary><strong>Q: Can I use this on multiple machines?</strong></summary>
+<summary><strong>❓ Is this against GitHub's Terms of Service?</strong></summary>
 
-A: Yes, you can use your license key on multiple machines.
+This tool creates real commits to a real repository you own. Use responsibly and for personal/educational purposes. The author is not responsible for any misuse.
 
 </details>
 
 <details>
-<summary><strong>Q: The push failed. What do I do?</strong></summary>
+<summary><strong>❓ How long does the license last?</strong></summary>
 
-A: Make sure you have:
-
-Initialized git: git init
-
-Added remote: git remote add origin <your-repo-url>
-
-Made initial commit: git add . && git commit -m "Initial commit"
-
-Proper permissions to push to the repository
+Free licenses are valid for approximately **100 years** (essentially forever). You won't need to renew.
 
 </details>
 
-🔧 Troubleshooting
+<details>
+<summary><strong>❓ Can I use this on multiple machines?</strong></summary>
 
-Common Issues & Solutions
+**Yes!** You can use your license key on multiple machines.
+
+</details>
+
+<details>
+<summary><strong>❓ Can I contribute to multiple years?</strong></summary>
+
+**Yes!** Set your date range to span multiple years:
+
+```env
+START_DATE=2022-01-01
+END_DATE=2024-12-31
+```
+
+</details>
+
+<details>
+<summary><strong>❓ What happens if I run it twice?</strong></summary>
+
+New commits will be added. If you want to start fresh, create a new repository.
+
+</details>
+
+<details>
+<summary><strong>❓ Can I undo the commits?</strong></summary>
+
+Yes, you can reset your repository:
+
+```bash
+git reset --hard HEAD~<number_of_commits>
+git push --force
+```
+
+⚠️ **Warning**: This is destructive and cannot be undone.
+
+</details>
+
+---
+
+## 🔧 Troubleshooting
+
+### 🚨 Common Issues & Solutions
 
 <table>
 <tr>
-<th width="30%">Error</th>
-<th width="30%">Cause</th>
-<th width="40%">Solution</th>
+<th width="25%">Error Message</th>
+<th width="25%">Cause</th>
+<th width="50%">Solution</th>
 </tr>
 <tr>
 <td>
 
+```
 No license key found
+```
 
 </td>
 <td>
@@ -867,14 +1019,20 @@ License not activated
 </td>
 <td>
 
-Run npm run activate and enter your key
+```bash
+npm run activate
+```
+
+Enter your license key when prompted
 
 </td>
 </tr>
 <tr>
 <td>
 
+```
 Invalid license signature
+```
 
 </td>
 <td>
@@ -884,16 +1042,19 @@ Wrong public key or corrupted license
 </td>
 <td>
 
-Verify publicKey.js has correct key
-
-Request a new license key
+1. Verify `src/licensing/publicKey.js` has correct key
+2. Delete `.license` file
+3. Request a new license key
+4. Run `npm run activate` again
 
 </td>
 </tr>
 <tr>
 <td>
 
+```
 Cannot find module
+```
 
 </td>
 <td>
@@ -903,14 +1064,18 @@ Dependencies not installed
 </td>
 <td>
 
-Run npm install
+```bash
+npm install
+```
 
 </td>
 </tr>
 <tr>
 <td>
 
+```
 Not a git repository
+```
 
 </td>
 <td>
@@ -920,14 +1085,21 @@ Git not initialized
 </td>
 <td>
 
-Run git init
+```bash
+git init
+git remote add origin <your-repo-url>
+git add .
+git commit -m "Initial commit"
+```
 
 </td>
 </tr>
 <tr>
 <td>
 
+```
 Remote not found
+```
 
 </td>
 <td>
@@ -937,31 +1109,39 @@ Git remote not configured
 </td>
 <td>
 
-Run git remote add origin <url>
+```bash
+git remote add origin <your-repo-url>
+```
 
 </td>
 </tr>
 <tr>
 <td>
 
+```
 Permission denied (push)
+```
 
 </td>
 <td>
 
-No push access to repo
+No push access
 
 </td>
 <td>
 
-Check repo permissions and authentication
+1. Check repository permissions
+2. Verify authentication (SSH/HTTPS)
+3. Use `git remote -v` to check remote URL
 
 </td>
 </tr>
 <tr>
 <td>
 
+```
 Invalid date format
+```
 
 </td>
 <td>
@@ -971,14 +1151,18 @@ Wrong date in .env
 </td>
 <td>
 
-Use format: YYYY-MM-DD
+Use format: `YYYY-MM-DD`
+
+Example: `2024-01-01`
 
 </td>
 </tr>
 <tr>
 <td>
 
+```
 startDate must be before endDate
+```
 
 </td>
 <td>
@@ -988,90 +1172,124 @@ Dates in wrong order
 </td>
 <td>
 
-Swap the dates in .env
+Swap the dates in `.env` file
+
+</td>
+</tr>
+<tr>
+<td>
+
+```
+ENOENT: no such file
+```
+
+</td>
+<td>
+
+Missing configuration file
+
+</td>
+<td>
+
+```bash
+cp .env.example .env
+```
 
 </td>
 </tr>
 </table>
 
-Debug Mode
+### 🔍 Debug Mode
 
-For detailed error information:
+For detailed error information, use verbose mode:
 
+```bash
 npm start -- --verbose
+```
 
-
-Reset License
+### 🔄 Reset License
 
 If you need to reset your license:
 
+```bash
+# Remove license file
 rm .license
+
+# Activate again
 npm run activate
+```
 
-
-Getting Help
+### 📞 Getting More Help
 
 If you're still stuck:
 
-📖 Check the FAQ section
+1. 📖 Check the [FAQ](#-faq) section above
+2. 🔍 Search [existing issues](https://github.com/Ayush-Dayal-08/github-contribution-art/issues)
+3. 🐛 [Open a new issue](https://github.com/Ayush-Dayal-08/github-contribution-art/issues/new)
+4. 📧 Email: ayushdayal08@gmail.com
 
-🔍 Search existing issues
+---
 
-🐛 Open a new issue
+## 🤝 Contributing
 
-📧 Email: ayushdayal08@gmail.com
+Contributions are welcome and appreciated! Here's how you can help:
 
-🤝 Contributing
+### 💡 Ways to Contribute
 
-Contributions are welcome! Here's how you can help:
+| Type | Description |
+|------|-------------|
+| 🐛 **Bug Reports** | Found a bug? [Open an issue](https://github.com/Ayush-Dayal-08/github-contribution-art/issues/new) |
+| 💡 **Feature Requests** | Have an idea? [Suggest it](https://github.com/Ayush-Dayal-08/github-contribution-art/issues/new) |
+| 📝 **Documentation** | Improve docs, fix typos |
+| 🎨 **New Patterns** | Create new pattern templates |
+| 🔧 **Bug Fixes** | Submit a PR with fixes |
+| ⭐ **Star & Share** | Star the repo and share with others |
 
-Ways to Contribute
+### 🛠️ Development Setup
 
-🐛 Report Bugs - Open an issue describing the bug
+```bash
+# 1. Fork the repository on GitHub
 
-💡 Suggest Features - Open an issue with your idea
+# 2. Clone your fork
+git clone https://github.com/YOUR_USERNAME/github-contribution-art.git
+cd github-contribution-art
 
-📝 Improve Documentation - Submit a PR with doc improvements
+# 3. Install dependencies
+npm install
 
-🎨 Add Patterns - Create new pattern templates
-
-🔧 Fix Bugs - Submit a PR with bug fixes
-
-Development Setup
-
-# Fork the repository
-# Clone your fork
-git clone [https://github.com/AYUSH-DAYAL/github-contribution-art.git](https://github.com/AYUSH-DAYAL/github-contribution-art.git)
-
-# Create a branch
+# 4. Create a feature branch
 git checkout -b feature/your-feature-name
 
-# Make your changes
-# Test your changes
+# 5. Make your changes
+
+# 6. Test your changes
 npm run dry-run
 
-# Commit and push
+# 7. Commit your changes
 git add .
-git commit -m "Add: your feature description"
+git commit -m "Add: description of your changes"
+
+# 8. Push to your fork
 git push origin feature/your-feature-name
 
-# Open a Pull Request
+# 9. Open a Pull Request on GitHub
+```
 
+### 📏 Code Guidelines
 
-Code Style
+- ✅ Use ES Modules (`import`/`export`)
+- ✅ Follow existing code style
+- ✅ Add comments for complex logic
+- ✅ Test before submitting
+- ✅ Keep commits focused and atomic
 
-Use ES Modules (import/export)
+---
 
-Follow existing code formatting
+## 📄 License
 
-Add comments for complex logic
+This project is licensed under the **MIT License**.
 
-Test before submitting
-
-📄 License
-
-This project is licensed under the MIT License.
-
+```
 MIT License
 
 Copyright (c) 2024 Ayush Dayal
@@ -1093,73 +1311,179 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
 
+See the [LICENSE](LICENSE) file for more details.
 
-👨‍💻 Author
+---
+
+## 👨‍💻 Author
+
+<div align="center">
+
+<a href="https://github.com/Ayush-Dayal-08">
+<img src="https://github.com/Ayush-Dayal-08.png" width="150px" style="border-radius: 50%;" alt="Ayush Dayal"/>
+</a>
+
+### **Ayush Dayal**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ayush--Dayal--08-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-Dayal-08)
+[![Email](https://img.shields.io/badge/Email-ayushdayal08%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:ayushdayal08@gmail.com)
+
+</div>
+
+| Platform | Link |
+|----------|------|
+| 🐙 **GitHub** | [@Ayush-Dayal-08](https://github.com/Ayush-Dayal-08) |
+| 📧 **Email** | [ayushdayal08@gmail.com](mailto:ayushdayal08@gmail.com) |
+
+---
+
+## 🆘 Support
+
+### 📞 Need Help?
+
+| Channel | Description | Link |
+|---------|-------------|------|
+| 📧 **Email** | Direct support | [ayushdayal08@gmail.com](mailto:ayushdayal08@gmail.com) |
+| 🐛 **Bug Reports** | Report issues | [GitHub Issues](https://github.com/Ayush-Dayal-08/github-contribution-art/issues) |
+| 💬 **Discussions** | Ask questions | [GitHub Discussions](https://github.com/Ayush-Dayal-08/github-contribution-art/discussions) |
+| 📖 **Documentation** | Read the docs | [This README](#) |
+
+### ⭐ Show Your Support
+
+If this project helped you, please consider:
 
 <table>
 <tr>
 <td align="center">
-<a href="https://www.google.com/search?q=https://github.com/AYUSH-DAYAL">
-<img src="https://www.google.com/search?q=https://github.com/AYUSH-DAYAL.png" width="100px;" alt="Author"/><br />
-<sub><b>Ayush Dayal</b></sub>
-</a>
+
+**⭐ Star**
+
+Give this repo a star!
+
+[![Star](https://img.shields.io/github/stars/Ayush-Dayal-08/github-contribution-art?style=social)](https://github.com/Ayush-Dayal-08/github-contribution-art)
+
+</td>
+<td align="center">
+
+**🍴 Fork**
+
+Fork and customize!
+
+[![Fork](https://img.shields.io/github/forks/Ayush-Dayal-08/github-contribution-art?style=social)](https://github.com/Ayush-Dayal-08/github-contribution-art/fork)
+
+</td>
+<td align="center">
+
+**👥 Follow**
+
+Follow for updates!
+
+[![Follow](https://img.shields.io/github/followers/Ayush-Dayal-08?style=social)](https://github.com/Ayush-Dayal-08)
+
+</td>
+<td align="center">
+
+**📢 Share**
+
+Share with friends!
+
 </td>
 </tr>
 </table>
 
-🌐 Website: github.com/AYUSH-DAYAL
+---
 
-📧 Email: ayushdayal08@gmail.com
+## 🙏 Acknowledgments
 
-🐙 GitHub: @AYUSH-DAYAL
+Special thanks to:
 
-☕ Buy Me a Coffee: buymeacoffee.com/AYUSH-DAYAL
+- 🌟 All the **stargazers** who support this project
+- 👥 All the **followers** who believe in this work
+- 🐛 Everyone who reports **bugs** and suggests **features**
+- 💻 The **open-source community** for inspiration
 
-🆘 Support
-
-Need Help?
-
-Channel
-
-Link
-
-📧 Email
-
-ayushdayal08@gmail.com
-
-🐛 Bug Reports
-
-GitHub Issues
-
-💬 Discussions
-
-GitHub Discussions
-
-📖 Documentation
-
-Wiki
-
-Show Your Support
-
-If this project helped you, please consider:
-
-⭐ Starring this repository
-
-🐦 Sharing on social media
-
-👥 Following the author
-
-☕ Buying a coffee for the developer
+---
 
 <div align="center">
 
-⭐ Star this repo if you find it useful! ⭐
+### 🌟 If you found this useful, please star this repository! 🌟
 
-Made with ❤️ by Ayush Dayal
+<br>
 
-</div>
+[![Star History Chart](https://api.star-history.com/svg?repos=Ayush-Dayal-08/github-contribution-art&type=Date)](https://star-history.com/#Ayush-Dayal-08/github-contribution-art&Date)
 
-<div align="center">
+<br>
+
+---
+
+**Made with ❤️ by [Ayush Dayal](https://github.com/Ayush-Dayal-08)**
+
 <sub>© 2024 Ayush Dayal. All rights reserved.</sub>
+
+<br>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Ayush-Dayal-08/github-contribution-art)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://github.com/Ayush-Dayal-08/github-contribution-art)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://github.com/Ayush-Dayal-08/github-contribution-art)
+
 </div>
+```
+
+---
+
+## 📄 Updated LICENSE File
+
+Also update your `LICENSE` file:
+
+```
+MIT License
+
+Copyright (c) 2024 Ayush Dayal
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+## ✅ Your Details in README
+
+| Field | Value |
+|-------|-------|
+| **Name** | Ayush Dayal |
+| **GitHub Username** | Ayush-Dayal-08 |
+| **Repository** | github-contribution-art |
+| **Repo URL** | https://github.com/Ayush-Dayal-08/github-contribution-art |
+| **Email** | ayushdayal08@gmail.com |
+
+---
+
+## 📝 Note
+
+I used `ayushdayal08@gmail.com` as a placeholder email. If this is not your correct email, please update it in:
+
+1. **README.md** - Search for `ayushdayal08@gmail.com` and replace
+2. **src/branding/author.js** - Update the `email` field
+
+---
+
+**Your professional README is ready! 🎉**
+
+Just copy the content above into your `README.md` file and push to GitHub!
