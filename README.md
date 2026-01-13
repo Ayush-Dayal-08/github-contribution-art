@@ -1457,30 +1457,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
----
-
-## ✅ Your Details in README
-
-| Field | Value |
-|-------|-------|
-| **Name** | Ayush Dayal |
-| **GitHub Username** | Ayush-Dayal-08 |
-| **Repository** | github-contribution-art |
-| **Repo URL** | https://github.com/Ayush-Dayal-08/github-contribution-art |
-| **Email** | ayushdayal08@gmail.com |
-
----
-
-## 📝 Note
-
-I used `ayushdayal08@gmail.com` as a placeholder email. If this is not your correct email, please update it in:
-
-1. **README.md** - Search for `ayushdayal08@gmail.com` and replace
-2. **src/branding/author.js** - Update the `email` field
-
----
-
-**Your professional README is ready! 🎉**
-
-Just copy the content above into your `README.md` file and push to GitHub!
