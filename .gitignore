@@ -1,0 +1,40 @@
+# ═══════════════════════════════════════════════════════════════════════════
+# GitHub Contribution Art Generator - Git Ignore
+# ═══════════════════════════════════════════════════════════════════════════
+
+# Dependencies
+node_modules/
+
+# License file (user-specific)
+.license
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Data files (generated)
+data/*.json
+!data/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-*
+
+# Build
+dist/
+build/
+coverage/
