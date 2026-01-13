@@ -1,6 +1,3 @@
-# Complete README.md for Ayush Dayal
-
-```markdown
 <div align="center">
 
 # 🎨 GitHub Contribution Art Generator
