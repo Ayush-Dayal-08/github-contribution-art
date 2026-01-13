@@ -9,9 +9,8 @@
  */
 
 export const PUBLIC_KEY = `-----BEGIN PUBLIC KEY-----
-MCowBQYDK2VwAyEA70Gztpem0bk0A8TIQDWcqYp3X6/7tqaHb/MPM7gEQTI=
------END PUBLIC KEY-----
-`;
+PASTE_YOUR_ACTUAL_PUBLIC_KEY_HERE
+-----END PUBLIC KEY-----`;
 
 /**
  * Product information
@@ -19,10 +18,10 @@ MCowBQYDK2VwAyEA70Gztpem0bk0A8TIQDWcqYp3X6/7tqaHb/MPM7gEQTI=
 export const PRODUCT_INFO = {
   name: 'GitHub Contribution Art',
   version: '2.0.0',
-  author: 'Your Name',
-  authorUrl: 'https://github.com/yourusername',
-  website: 'https://github.com/yourusername/github-contribution-art',
-  repository: 'https://github.com/yourusername/github-contribution-art',
-  purchaseUrl: 'https://github.com/yourusername/github-contribution-art',
+  author: 'AYUSH DAYAL',
+  authorUrl: 'https://github.com/Ayush-Dayal-08',
+  website: 'https://github.com/Ayush-Dayal-08/github-contribution-art',
+  repository: 'https://github.com/Ayush-Dayal-08/github-contribution-art',
+  purchaseUrl: 'https://github.com/Ayush-Dayal-08/github-contribution-art',
   supportEmail: 'support@example.com',
 };

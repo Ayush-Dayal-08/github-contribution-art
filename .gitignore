@@ -1,40 +1,29 @@
 # ═══════════════════════════════════════════════════════════════════════════
-# GitHub Contribution Art Generator - Git Ignore
+# PRIVATE - NEVER COMMIT THESE!
 # ═══════════════════════════════════════════════════════════════════════════
+private-tools/
+private.key
+*.key
+users-log.txt
 
-# Dependencies
-node_modules/
-
-# License file (user-specific)
-.license
-
-# Environment
+# ═══════════════════════════════════════════════════════════════════════════
+# Environment & License
+# ═══════════════════════════════════════════════════════════════════════════
 .env
 .env.local
-.env.*.local
+.env.*
+.license
 
-# Logs
-logs/
-*.log
-npm-debug.log*
-
-# Data files (generated)
+# ═══════════════════════════════════════════════════════════════════════════
+# Dependencies & Generated Files
+# ═══════════════════════════════════════════════════════════════════════════
+node_modules/
 data/*.json
 !data/.gitkeep
+*.log
 
-# OS files
+# ═══════════════════════════════════════════════════════════════════════════
+# OS Files
+# ═══════════════════════════════════════════════════════════════════════════
 .DS_Store
 Thumbs.db
-Desktop.ini
-
-# IDE
-.idea/
-.vscode/
-*.swp
-*.swo
-*.sublime-*
-
-# Build
-dist/
-build/
-coverage/

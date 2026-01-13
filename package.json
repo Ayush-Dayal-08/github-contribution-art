@@ -1,39 +1,30 @@
 {
-  "name": "@yourusername/github-contribution-art",
+  "name": "github-contribution-art",
   "version": "2.0.0",
-  "description": "Professional GitHub contribution graph generator with patterns and scheduling",
+  "description": "FREE GitHub contribution graph generator - Create beautiful patterns on your GitHub profile",
   "author": {
-    "name": "Your Name",
-    "email": "your.email@example.com",
-    "url": "https://github.com/yourusername"
+    "name": "AYUSH DAYAL",
+    "email": "ayushdayal08@gmail.com",
+    "url": "https://github.com/Ayush-Dayal-08"
   },
-  "homepage": "https://github.com/yourusername/github-contribution-art",
+  "homepage": "https://github.com/Ayush-Dayal-08/github-contribution-art",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/github-contribution-art.git"
+    "url": "https://github.com/Ayush-Dayal-08/github-contribution-art.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/github-contribution-art/issues"
+    "url": "https://github.com/Ayush-Dayal-08/github-contribution-art/issues"
   },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/yourusername"
-  },
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "MIT",
   "type": "module",
   "main": "src/index.js",
-  "bin": {
-    "contribution-art": "./src/index.js"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  },
   "scripts": {
     "start": "node src/index.js",
     "activate": "node src/index.js --activate",
-    "verify": "node src/index.js --verify-license",
+    "verify": "node src/index.js --verify",
     "preview": "node src/index.js --preview",
-    "dry-run": "node src/index.js --dry-run"
+    "dry-run": "node src/index.js --dry-run",
+    "patterns": "node src/index.js --list-patterns"
   },
   "dependencies": {
     "chalk": "^5.3.0",
@@ -45,12 +36,17 @@
     "ora": "^8.0.1",
     "simple-git": "^3.24.0"
   },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "keywords": [
     "github",
     "contributions",
     "commit",
     "graph",
     "generator",
-    "art"
+    "art",
+    "profile",
+    "free"
   ]
 }
