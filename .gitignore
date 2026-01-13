@@ -18,7 +18,6 @@ users-log.txt
 # Dependencies & Generated Files
 # ═══════════════════════════════════════════════════════════════════════════
 node_modules/
-data/*.json
 !data/.gitkeep
 *.log
 

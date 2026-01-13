@@ -9,7 +9,7 @@
  */
 
 export const PUBLIC_KEY = `-----BEGIN PUBLIC KEY-----
-PASTE_YOUR_ACTUAL_PUBLIC_KEY_HERE
+MCowBQYDK2VwAyEA70Gztpem0bk0A8TIQDWcqYp3X6/7tqaHb/MPM7gEQTI=
 -----END PUBLIC KEY-----`;
 
 /**
